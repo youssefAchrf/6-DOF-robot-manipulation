@@ -1,0 +1,8 @@
+prefix=/home/youssef/robotics/install
+
+Name: robot_22
+Description: Description of robot_22
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

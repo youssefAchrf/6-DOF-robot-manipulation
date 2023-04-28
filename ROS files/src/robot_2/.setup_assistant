@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: asu_robot_description
+    relative_path: urdf/asu_robot.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/asu_robot.srdf
+  CONFIG:
+    author_name: youssef
+    author_email: youssefashraf266@gmail.com
+    generated_timestamp: 1652277112
